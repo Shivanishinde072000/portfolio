@@ -1,0 +1,17 @@
+#footer{
+    background-color: #07aff2;
+    
+}
+details > summary{
+    list-style: none;
+}
+
+.projectImges{
+    height: 300px;
+    width: 50px;
+    float: left;
+    
+}
+.h1:hover, .h3:hover{
+    color: #07aff2;
+}
